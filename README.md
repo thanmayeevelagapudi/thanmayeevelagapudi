@@ -17,7 +17,6 @@ Building Production-Ready AI Systems
 Retrieval • Reasoning • Enterprise AI • Backend Engineering
 </p>
 
-<br>
 
 </p>
 
@@ -139,6 +138,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=thanmayeevel
 
 
 ---
+# Let's Connect
 
 <div align="center">
 
