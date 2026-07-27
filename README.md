@@ -138,7 +138,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=thanmayeevel
 
 
 ---
-<h2>Let's Connect!!</h2>
+<h2>Let's Connect !!</h2>
 
 <div align="center">
 
