@@ -168,10 +168,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=thanmayeevel
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/thanmayeevelagapudi">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>&nbsp;&nbsp;&nbsp;
-
 <a href="mailto:thanmayeevelagapudi@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>&nbsp;&nbsp;&nbsp;
@@ -179,6 +175,12 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=thanmayeevel
 <a href="https://leetcode.com/u/thanmayee02/">
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="55"/>
 </a>
+
+<a href="https://github.com/thanmayeevelagapudi">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+
 </p>
 <br>
 
