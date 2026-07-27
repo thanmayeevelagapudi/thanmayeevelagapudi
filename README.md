@@ -158,8 +158,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=thanmayeevel
 
 <div align="center">
 
-<div align="center">
-
 <table>
 <tr>
 
