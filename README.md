@@ -69,7 +69,7 @@ I enjoy designing systems that combine robust backend engineering with modern AI
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:7EE787&height=2&section=header"/>
 </p>
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,azure,docker,git,mysql" />
@@ -80,6 +80,9 @@ I enjoy designing systems that combine robust backend engineering with modern AI
 <img src="https://img.shields.io/badge/LangGraph-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/Qdrant-red?style=flat-square"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square"/>
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:7EE787&height=2&section=header"/>
 </p>
 
 # Professional Interests
