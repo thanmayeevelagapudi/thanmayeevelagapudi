@@ -204,6 +204,4 @@ If my work aligns with your interests, let's connect and build something impactf
 src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=120&section=footer"/>
 
 </div>
-```
 
----
