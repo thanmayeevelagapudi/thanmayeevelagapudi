@@ -2,11 +2,6 @@
 <!--                     HERO SECTION                       -->
 <!-- ===================================================== -->
 
-<p align="center">
-  <img src="./assets/banner.svg" alt="Thanmayee Velagapudi Banner" width="100%" />
-</p>
-
-<br>
 
 <h1 align="center">Thanmayee Velagapudi</h1>
 
