@@ -157,24 +157,11 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=thanmayeevel
 
 ---
 
-# Achievements
 
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=thanmayeevelagapudi&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
 
 ---
 
-# Open Source Philosophy
 
-> **Build systems that solve real problems.**
->
-> I enjoy designing scalable backend architectures and production-ready AI applications that combine Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and cloud-native engineering to create practical solutions for enterprise use cases.
-
----
 
 # Let's Connect
 
