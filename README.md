@@ -23,7 +23,7 @@ Retrieval • Reasoning • Enterprise AI • Backend Engineering
 
 ---
 
-# About
+# About Me
 
 AI-focused Software Engineer with experience building production-oriented backend applications and intelligent systems powered by Large Language Models (LLMs). Passionate about Retrieval-Augmented Generation (RAG), enterprise document intelligence, vector search, and scalable AI architectures.
 
@@ -31,15 +31,14 @@ I enjoy designing systems that combine robust backend engineering with modern AI
 
 ---
 
-# Engineering Focus
+<h2>Engineering Focus</h2>
 
-<table>
-
+<table width="100%">
 <tr>
 
-<td width="50%">
+<td width="48%" valign="top">
 
-### AI Engineering
+### 🧠 AI Engineering
 
 - Retrieval-Augmented Generation (RAG)
 - Enterprise AI Applications
@@ -50,9 +49,11 @@ I enjoy designing systems that combine robust backend engineering with modern AI
 
 </td>
 
-<td width="50%">
+<td width="4%"></td>
 
-### Backend Engineering
+<td width="48%" valign="top">
+
+### ⚡ Backend Engineering
 
 - REST API Development
 - Microservices
@@ -64,7 +65,6 @@ I enjoy designing systems that combine robust backend engineering with modern AI
 </td>
 
 </tr>
-
 </table>
 
 ---
