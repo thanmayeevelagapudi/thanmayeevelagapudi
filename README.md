@@ -33,34 +33,36 @@ I enjoy designing systems that combine robust backend engineering with modern AI
 
 <h2>Engineering Focus</h2>
 
-<table width="100%">
+<table align="center" width="90%">
 <tr>
 
-<td width="48%" valign="top">
+<td width="50%" valign="top">
 
-### 🧠 AI Engineering
+<h3>🧠 AI Engineering</h3>
 
-- Retrieval-Augmented Generation (RAG)
-- Enterprise AI Applications
-- LLM Workflows
-- Agentic AI Systems
-- Prompt Engineering
-- AI Evaluation & Observability
+<ul>
+<li>Retrieval-Augmented Generation (RAG)</li>
+<li>Enterprise AI Applications</li>
+<li>LLM Workflows</li>
+<li>Agentic AI Systems</li>
+<li>Prompt Engineering</li>
+<li>AI Evaluation & Observability</li>
+</ul>
 
 </td>
 
-<td width="4%"></td>
+<td width="50%" valign="top">
 
-<td width="48%" valign="top">
+<h3>⚡ Backend Engineering</h3>
 
-### ⚡ Backend Engineering
-
-- REST API Development
-- Microservices
-- FastAPI
-- Spring Boot
-- System Design
-- Cloud-Native Applications
+<ul>
+<li>REST API Development</li>
+<li>Microservices</li>
+<li>FastAPI</li>
+<li>Spring Boot</li>
+<li>System Design</li>
+<li>Cloud-Native Applications</li>
+</ul>
 
 </td>
 
