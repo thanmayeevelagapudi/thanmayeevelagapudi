@@ -10,6 +10,12 @@ Software Engineer • AI & LLM Engineer
 </h3>
 
 <p align="center">
+📍 Based in Hyderabad, India &nbsp;&nbsp;•&nbsp;&nbsp;
+💼 Open to AI Engineer Roles in Hyderabad & Bangalore &nbsp;&nbsp;•&nbsp;&nbsp;
+🚀 Building Production AI Systems
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Production-Ready+AI+Systems;Retrieval+%E2%80%A2+Reasoning+%E2%80%A2+Enterprise+AI;FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+Azure+AI;Open+to+AI+Engineer+Opportunities" />
 </p>
 
