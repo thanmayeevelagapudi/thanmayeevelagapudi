@@ -69,6 +69,19 @@ I enjoy designing systems that combine robust backend engineering with modern AI
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:7EE787&height=2&section=header"/>
 </p>
 
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,azure,docker,git,mysql" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Qdrant-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square"/>
+</p>
+
 # Professional Interests
 
 <table>
@@ -162,11 +175,13 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=thanmayeevel
 
 <div align="center">
 
-### Thanks for stopping by!
+<div align="center">
 
-Building intelligent systems through software engineering, Generative AI, and modern backend technologies.
+### Thanks for visiting 👋
 
-If you're interested in collaborating on AI, backend engineering, or open-source projects, feel free to connect.
+If my work aligns with your interests, let's connect and build something impactful.
+
+</div>
 
 </div>
 
