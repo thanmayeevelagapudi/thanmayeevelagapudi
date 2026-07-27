@@ -10,17 +10,12 @@ Software Engineer • AI & LLM Engineer
 </h3>
 
 <p align="center">
-Building Production-Ready AI Systems
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Production-Ready+AI+Systems;Retrieval+%E2%80%A2+Reasoning+%E2%80%A2+Enterprise+AI;FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+Azure+AI;Open+to+AI+Engineer+Opportunities" />
 </p>
 
 <p align="center">
-Retrieval • Reasoning • Enterprise AI • Backend Engineering
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:7EE787&height=2&section=header"/>
 </p>
-
-
-</p>
-
----
 
 # About Me
 
@@ -28,7 +23,9 @@ AI-focused Software Engineer with experience building production-oriented backen
 
 I enjoy designing systems that combine robust backend engineering with modern AI capabilities to solve real-world business problems—from enterprise search and document understanding to agentic workflows and knowledge retrieval.
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:7EE787&height=2&section=header"/>
+</p>
 
 <h2>Engineering Focus</h2>
 
@@ -68,7 +65,9 @@ I enjoy designing systems that combine robust backend engineering with modern AI
 </tr>
 </table>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:7EE787&height=2&section=header"/>
+</p>
 
 # Professional Interests
 
@@ -120,7 +119,9 @@ I enjoy designing systems that combine robust backend engineering with modern AI
 
 </table>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:7EE787&height=2&section=header"/>
+</p>
 
 
 # GitHub Activity
@@ -133,11 +134,17 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=thanmayeevel
 
 </div>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:7EE787&height=2&section=header"/>
+</p>
+
+# Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thanmayeevelagapudi/thanmayeevelagapudi/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 
-
----
 <h2>Let's Connect !!</h2>
 
 <div align="center">
@@ -193,7 +200,9 @@ If you're interested in collaborating on AI, backend engineering, or open-source
 
 </div>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:7EE787&height=2&section=header"/>
+</p>
 
 <div align="center">
 
