@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Thanmayee Velagapudi</h1>
 
-<!--
-**thanmayeevelagapudi/thanmayeevelagapudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI Engineer | Software Engineer @ Capgemini
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building Production-Ready RAG Applications • LangGraph • LLM Engineering
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI+Applications;Learning+LangGraph;Developing+Production+RAG+Systems;Open+to+AI+Engineer+Roles" />
+</p>
