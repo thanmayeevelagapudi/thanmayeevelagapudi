@@ -158,23 +158,37 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=thanmayeevel
 
 
 
-<h2 align="left">Let's Connect</h2>
+<h2>Let's Connect</h2>
 
-<p align="center">
-  
-  <a href="https://www.linkedin.com/in/thanmayee-velagapudi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-  <a href="https://leetcode.com/u/thanmayee02/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="45" />
-  </a>
-  <a href="mailto:thanmayeevelagapudi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-  </a>
-  <a href="https://github.com/thanmayeevelagapudi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
-</p>
+<table align="center">
+<tr>
+
+<td align="center" width="80">
+<a href="https://www.linkedin.com/in/thanmayee-velagapudi/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+</a>
+</td>
+
+<td align="center" width="80">
+<a href="https://leetcode.com/u/thanmayee02/">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="42"/>
+</a>
+</td>
+
+<td align="center" width="80">
+<a href="mailto:thanmayeevelagapudi@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+</a>
+</td>
+
+<td align="center" width="80">
+<a href="https://github.com/thanmayeevelagapudi">
+<img src="https://skillicons.dev/icons?i=github" height="42"/>
+</a>
+</td>
+
+</tr>
+</table>
 
 <br>
 
