@@ -157,23 +157,21 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=thanmayeevel
 ---
 
 <p align="center">
+<a href="https://www.linkedin.com/in/thanmayee-velagapudi/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55"/>
+</a>
 
 <a href="https://github.com/thanmayeevelagapudi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/thanmayee-velagapudi/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/thanmayee02/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
 </a>
 
 <a href="mailto:thanmayeevelagapudi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="55"/>
 </a>
 
+<a href="https://leetcode.com/u/thanmayee02/">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="55"/>
+</a>
 </p>
 <br>
 
