@@ -188,7 +188,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=thanmayeevel
 
 <div align="center">
 
-### Thanks for visiting 👋
+### Thanks for visiting !👋
 
 If my work aligns with your interests, let's connect and build something impactful.
 
